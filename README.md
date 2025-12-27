@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m currently working on:<br> Multimodal AI research and development as an AI Intern at Sony.<br><br>I’m looking to collaborate on:<br> AI/ML projects, open-source software, and interdisciplinary work where computation meets engineering or science.<br><br>I’m looking for help with:<br> Writing production-ready ML-DL code, model deployment, and learning best practices used in real-world systems.<br><br>I’m currently learning:<br> Deep learning, advanced machine learning techniques, and backend/system design to strengthen my software foundation.<br><br>Ask me about:<br> Python, machine learning workflows, Bayesian optimization, and applying ML & DL to engineering or physics-based problems.<br><br>More:<br> I’m a Chemical Engineering student at IIT Kharagpur, who enjoys solving problems with code more than spreadsheets or simulations alone.
+🔭 I’m currently working on:<br> Multimodal AI research and development as an AI Intern at Sony.<br><br>👯 I’m looking to collaborate on:<br> AI/ML projects, open-source software, and interdisciplinary work where computation meets engineering or science.<br><br>🤝 I’m looking for help with:<br> Writing production-ready ML-DL code, model deployment, and learning best practices used in real-world systems.<br><br>🌱 I’m currently learning:<br> Deep learning, advanced machine learning techniques, and backend/system design to strengthen my software foundation.<br><br>💬Ask me about:<br> Python, machine learning workflows, Bayesian optimization, and applying ML & DL to engineering or physics-based problems.<br><br>⚡Fun fact:<br> I’m a Chemical Engineering student at IIT Kharagpur, who enjoys solving problems with code more than spreadsheets or simulations alone.
 
 
 ## 🌐 Socials:
@@ -21,5 +21,6 @@ I’m currently working on:<br> Multimodal AI research and development as an AI 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya001-max&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
